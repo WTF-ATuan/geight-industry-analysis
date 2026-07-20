@@ -175,6 +175,17 @@ CATEGORIES:Asia
 END:VEVENT
 
 BEGIN:VEVENT
+UID:gcap-2026@geight-calendar
+DTSTAMP:20260720T000000Z
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261008
+SUMMARY:[Asia] GCAP (Games Connect Asia Pacific) 2026
+LOCATION:Melbourne\, Australia
+DESCRIPTION:官方網站: https://gcap.com.au/\n狀態: Confirmed（Melbourne International Games Week 一部分\，緊接 PAX Australia 前）
+CATEGORIES:Asia
+END:VEVENT
+
+BEGIN:VEVENT
 UID:pax-australia-2026@geight-calendar
 DTSTAMP:20260720T000000Z
 DTSTART;VALUE=DATE:20261009
@@ -248,6 +259,83 @@ DTEND;VALUE=DATE:20270125
 SUMMARY:[Asia] Taipei Game Show 台北國際電玩展 2027
 LOCATION:Taipei\, Taiwan
 DESCRIPTION:官方網站: https://tgs.tca.org.tw\n狀態: Confirmed
+CATEGORIES:Asia
+END:VEVENT
+
+BEGIN:VEVENT
+UID:pgc-bangkok-2026@geight-calendar
+DTSTAMP:20260720T000000Z
+DTSTART;VALUE=DATE:20261027
+DTEND;VALUE=DATE:20261028
+SUMMARY:[Asia] Pocket Gamer Connects Bangkok 2026
+LOCATION:Bangkok\, Thailand
+DESCRIPTION:官方網站: https://www.pgconnects.com/\n狀態: Confirmed（B2B 會議）
+CATEGORIES:Asia
+END:VEVENT
+
+BEGIN:VEVENT
+UID:igdc-2026@geight-calendar
+DTSTAMP:20260720T000000Z
+DTSTART;VALUE=DATE:20261028
+DTEND;VALUE=DATE:20261030
+SUMMARY:[Asia] IGDC (India Game Developer Conference) 2026
+LOCATION:Chennai\, India
+DESCRIPTION:官方網站: https://indiagdc.com/\n狀態: Confirmed（南亞最大開發者大會，第18屆）
+CATEGORIES:Asia
+END:VEVENT
+
+BEGIN:VEVENT
+UID:alt-g-2026@geight-calendar
+DTSTAMP:20260720T000000Z
+DTSTART;VALUE=DATE:20261025
+DTEND;VALUE=DATE:20261026
+SUMMARY:[Asia] ALT+G 另類遊戲祭 2026（日期推估）
+LOCATION:Seoul (Seongsu-dong)\, South Korea
+DESCRIPTION:官方網站: https://indiegame.com/en/archives/17808\n狀態: Estimated（依 2025 首屆日期推算，尚未正式公告 2026 日期，請於接近時再確認）
+CATEGORIES:Asia
+END:VEVENT
+
+BEGIN:VEVENT
+UID:pgc-korea-2026@geight-calendar
+DTSTAMP:20260720T000000Z
+DTSTART;VALUE=DATE:20261031
+DTEND;VALUE=DATE:20261101
+SUMMARY:[Asia] Pocket Gamer Connects Korea 2026
+LOCATION:Goyang (Seoul area)\, South Korea
+DESCRIPTION:官方網站: https://www.pgconnects.com/korea/\n狀態: Confirmed（B2B 會議）
+CATEGORIES:Asia
+END:VEVENT
+
+BEGIN:VEVENT
+UID:weplay-expo-2026@geight-calendar
+DTSTAMP:20260720T000000Z
+DTSTART;VALUE=DATE:20261121
+DTEND;VALUE=DATE:20261123
+SUMMARY:[Asia] WePlay Expo 2026
+LOCATION:Shanghai\, China
+DESCRIPTION:官方網站: https://www.weplaymore.com/english\n狀態: Confirmed（CiGA 主辦，中國最大獨立遊戲展）
+CATEGORIES:Asia
+END:VEVENT
+
+BEGIN:VEVENT
+UID:kis-korea-2026@geight-calendar
+DTSTAMP:20260720T000000Z
+DTSTART;VALUE=DATE:20261202
+DTEND;VALUE=DATE:20261205
+SUMMARY:[Asia] Korea Indiegame Showcase (KIS) 2026（日期推估）
+LOCATION:Seongnam/Pangyo\, South Korea
+DESCRIPTION:官方網站: https://www.instagram.com/k_indiegame_official/\n狀態: Estimated（找到的是 2025 場次資訊，依往例推算，請於接近時再確認；KOCCA 支持）
+CATEGORIES:Asia
+END:VEVENT
+
+BEGIN:VEVENT
+UID:geight-taiwan-indie-2026@geight-calendar
+DTSTAMP:20260720T000000Z
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261207
+SUMMARY:[Asia] ★ G-EIGHT Taiwan Indie Game Show 2026
+LOCATION:Taipei\, Taiwan
+DESCRIPTION:官方網站: https://geight.io/en/\n狀態: Confirmed（自家展會）
 CATEGORIES:Asia
 END:VEVENT
 
