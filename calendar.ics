@@ -1,0 +1,221 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//G-EIGHT//Game Industry Events Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:遊戲展覽時間軸 (Game Industry Events)
+X-WR-CALDESC:亞洲為主、歐美精選的遊戲產業展覽時間軸 by G-EIGHT
+X-WR-TIMEZONE:Asia/Taipei
+REFRESH-INTERVAL;VALUE=DURATION:P1D
+X-PUBLISHED-TTL:P1D
+
+BEGIN:VEVENT
+UID:taipei-game-show-2026@geight-calendar
+DTSTAMP:20260720T000000Z
+DTSTART;VALUE=DATE:20260129
+DTEND;VALUE=DATE:20260202
+SUMMARY:[Asia] Taipei Game Show 台北國際電玩展 2026
+LOCATION:Taipei\, Taiwan
+DESCRIPTION:官方網站: https://tgs.tca.org.tw\n狀態: Confirmed（已結束，供紀錄參考）
+CATEGORIES:Asia
+END:VEVENT
+
+BEGIN:VEVENT
+UID:gdc-2026@geight-calendar
+DTSTAMP:20260720T000000Z
+DTSTART;VALUE=DATE:20260309
+DTEND;VALUE=DATE:20260314
+SUMMARY:[歐美] GDC (Game Developers Conference) 2026
+LOCATION:San Francisco\, USA
+DESCRIPTION:官方網站: https://gdconf.com\n狀態: Confirmed（已結束，供紀錄參考；已更名為 GDC Festival of Gaming）
+CATEGORIES:EU/US
+END:VEVENT
+
+BEGIN:VEVENT
+UID:pax-east-2026@geight-calendar
+DTSTAMP:20260720T000000Z
+DTSTART;VALUE=DATE:20260326
+DTEND;VALUE=DATE:20260330
+SUMMARY:[歐美] PAX East 2026
+LOCATION:Boston\, USA
+DESCRIPTION:官方網站: https://east.paxsite.com\n狀態: Confirmed（已結束，供紀錄參考）
+CATEGORIES:EU/US
+END:VEVENT
+
+BEGIN:VEVENT
+UID:vietnam-gameverse-2026@geight-calendar
+DTSTAMP:20260720T000000Z
+DTSTART;VALUE=DATE:20260508
+DTEND;VALUE=DATE:20260510
+SUMMARY:[Asia] Vietnam GameVerse 2026
+LOCATION:Ho Chi Minh City\, Vietnam
+DESCRIPTION:官方網站: https://vnexpress.net/the-thao/gameverse\n狀態: Confirmed（已結束，供紀錄參考；主展/頒獎為 5/8-5/9\，前導活動 2-5 月）
+CATEGORIES:Asia
+END:VEVENT
+
+BEGIN:VEVENT
+UID:bitsummit-punch-2026@geight-calendar
+DTSTAMP:20260720T000000Z
+DTSTART;VALUE=DATE:20260522
+DTEND;VALUE=DATE:20260525
+SUMMARY:[Asia] BitSummit PUNCH 2026
+LOCATION:Kyoto (Miyako Messe)\, Japan
+DESCRIPTION:官方網站: https://bitsummit.org/en/\n狀態: Confirmed（已結束，供紀錄參考；下屆日期尚未公布）
+CATEGORIES:Asia
+END:VEVENT
+
+BEGIN:VEVENT
+UID:chinajoy-2026@geight-calendar
+DTSTAMP:20260720T000000Z
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260804
+SUMMARY:[Asia] ChinaJoy 2026
+LOCATION:Shanghai\, China
+DESCRIPTION:官方網站: https://en.chinajoy.net\n狀態: Confirmed
+CATEGORIES:Asia
+END:VEVENT
+
+BEGIN:VEVENT
+UID:acghk-2026@geight-calendar
+DTSTAMP:20260720T000000Z
+DTSTART;VALUE=DATE:20260724
+DTEND;VALUE=DATE:20260729
+SUMMARY:[Asia] Ani-Com & Games Hong Kong (ACGHK) 2026
+LOCATION:Hong Kong (HKCEC)
+DESCRIPTION:官方網站: https://ani-com.hk/en/\n狀態: Confirmed（第27屆）
+CATEGORIES:Asia
+END:VEVENT
+
+BEGIN:VEVENT
+UID:bic-fest-2026@geight-calendar
+DTSTAMP:20260720T000000Z
+DTSTART;VALUE=DATE:20260814
+DTEND;VALUE=DATE:20260817
+SUMMARY:[Asia] BIC (Busan Indie Connect) Festival 2026
+LOCATION:Busan\, South Korea
+DESCRIPTION:官方網站: https://bicfest.org\n狀態: Confirmed（現場展 8/14-8/16，共3天；線上展另於 8/7-8/28 進行）
+CATEGORIES:Asia
+END:VEVENT
+
+BEGIN:VEVENT
+UID:devcom-2026@geight-calendar
+DTSTAMP:20260720T000000Z
+DTSTART;VALUE=DATE:20260823
+DTEND;VALUE=DATE:20260826
+SUMMARY:[歐美] devcom (gamescom dev) 2026
+LOCATION:Cologne\, Germany
+DESCRIPTION:官方網站: https://dev.gamescom.global\n狀態: Confirmed（與 Gamescom Cologne 同場，已更名 gamescom dev）
+CATEGORIES:EU/US
+END:VEVENT
+
+BEGIN:VEVENT
+UID:gamescom-2026@geight-calendar
+DTSTAMP:20260720T000000Z
+DTSTART;VALUE=DATE:20260826
+DTEND;VALUE=DATE:20260831
+SUMMARY:[歐美] Gamescom 2026
+LOCATION:Cologne\, Germany
+DESCRIPTION:官方網站: https://www.gamescom.global\n狀態: Confirmed（Opening Night Live 前導場為 8/25）
+CATEGORIES:EU/US
+END:VEVENT
+
+BEGIN:VEVENT
+UID:pax-west-2026@geight-calendar
+DTSTAMP:20260720T000000Z
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260908
+SUMMARY:[歐美] PAX West 2026
+LOCATION:Seattle\, USA
+DESCRIPTION:官方網站: https://west.paxsite.com\n狀態: Confirmed
+CATEGORIES:EU/US
+END:VEVENT
+
+BEGIN:VEVENT
+UID:tgs-2026@geight-calendar
+DTSTAMP:20260720T000000Z
+DTSTART;VALUE=DATE:20260917
+DTEND;VALUE=DATE:20260922
+SUMMARY:[Asia] Tokyo Game Show (TGS) 2026
+LOCATION:Chiba (Makuhari Messe)\, Japan
+DESCRIPTION:官方網站: https://tgs.cesa.or.jp/en/\n狀態: Confirmed（30週年，首次5天制；商展日 9/17-9/18\，公眾日 9/19-9/21）
+CATEGORIES:Asia
+END:VEVENT
+
+BEGIN:VEVENT
+UID:pax-australia-2026@geight-calendar
+DTSTAMP:20260720T000000Z
+DTSTART;VALUE=DATE:20261009
+DTEND;VALUE=DATE:20261012
+SUMMARY:[Asia] PAX Australia 2026
+LOCATION:Melbourne\, Australia
+DESCRIPTION:官方網站: https://aus.paxsite.com\n狀態: Confirmed
+CATEGORIES:Asia
+END:VEVENT
+
+BEGIN:VEVENT
+UID:level-up-kl-2026@geight-calendar
+DTSTAMP:20260720T000000Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261017
+SUMMARY:[Asia] Level Up KL 2026
+LOCATION:Kuala Lumpur\, Malaysia
+DESCRIPTION:官方網站: https://www.mdec.my/levelupkl\n狀態: Confirmed（SEA Game Awards 頒獎典禮於 10/15）
+CATEGORIES:Asia
+END:VEVENT
+
+BEGIN:VEVENT
+UID:igdx-2026@geight-calendar
+DTSTAMP:20260720T000000Z
+DTSTART;VALUE=DATE:20261021
+DTEND;VALUE=DATE:20261024
+SUMMARY:[Asia] IGDX (Indonesia Game Developer Exchange) 2026
+LOCATION:Bali (Bali Beach Convention Center)\, Indonesia
+DESCRIPTION:官方網站: https://www.igdx.id\n狀態: Confirmed
+CATEGORIES:Asia
+END:VEVENT
+
+BEGIN:VEVENT
+UID:igx-2026@geight-calendar
+DTSTAMP:20260720T000000Z
+DTSTART;VALUE=DATE:20261024
+DTEND;VALUE=DATE:20261026
+SUMMARY:[Asia] IGX (Indonesia Game Expo) 2026
+LOCATION:ICE BSD\, Indonesia
+DESCRIPTION:官方網站: https://igx.co.id\n狀態: Confirmed
+CATEGORIES:Asia
+END:VEVENT
+
+BEGIN:VEVENT
+UID:gamescom-asia-thailand-2026@geight-calendar
+DTSTAMP:20260720T000000Z
+DTSTART;VALUE=DATE:20261029
+DTEND;VALUE=DATE:20261102
+SUMMARY:[Asia] Gamescom Asia x Thailand Game Show 2026（合併展）
+LOCATION:Bangkok (Queen Sirikit National Convention Center)\, Thailand
+DESCRIPTION:官方網站: https://gamescom.asia\n狀態: Confirmed（重要異動：2026年 Gamescom Asia 從新加坡移至曼谷\，並與 Thailand Game Show 合併為單一展會，不再有獨立新加坡場或獨立泰國展）
+CATEGORIES:Asia
+END:VEVENT
+
+BEGIN:VEVENT
+UID:g-star-2026@geight-calendar
+DTSTAMP:20260720T000000Z
+DTSTART;VALUE=DATE:20261119
+DTEND;VALUE=DATE:20261123
+SUMMARY:[Asia] G-STAR 2026
+LOCATION:Busan\, South Korea
+DESCRIPTION:官方網站: https://www.gstar.or.kr/eng\n狀態: Confirmed（韓國最大遊戲展）
+CATEGORIES:Asia
+END:VEVENT
+
+BEGIN:VEVENT
+UID:taipei-game-show-2027@geight-calendar
+DTSTAMP:20260720T000000Z
+DTSTART;VALUE=DATE:20270121
+DTEND;VALUE=DATE:20270125
+SUMMARY:[Asia] Taipei Game Show 台北國際電玩展 2027
+LOCATION:Taipei\, Taiwan
+DESCRIPTION:官方網站: https://tgs.tca.org.tw\n狀態: Confirmed
+CATEGORIES:Asia
+END:VEVENT
+
+END:VCALENDAR
