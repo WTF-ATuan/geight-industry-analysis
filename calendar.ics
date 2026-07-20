@@ -153,6 +153,28 @@ CATEGORIES:Asia
 END:VEVENT
 
 BEGIN:VEVENT
+UID:oigs-2026@geight-calendar
+DTSTAMP:20260720T000000Z
+DTSTART;VALUE=DATE:20261003
+DTEND;VALUE=DATE:20261005
+SUMMARY:[Asia] OIGS (Osaka Indie Games Summit) 大阪インディーゲームサミット 2026
+LOCATION:Osaka (Grand Green Osaka\, Umeda)\, Japan
+DESCRIPTION:官方網站: https://funky802.com/osaka-indiegames-summit\n狀態: Confirmed（Tokyo Indie Games Summit 的姊妹展，主題 "Kansai to the World"）
+CATEGORIES:Asia
+END:VEVENT
+
+BEGIN:VEVENT
+UID:tigs-2026@geight-calendar
+DTSTAMP:20260720T000000Z
+DTSTART;VALUE=DATE:20260320
+DTEND;VALUE=DATE:20260322
+SUMMARY:[Asia] TIGS (Tokyo Indie Games Summit) 2026
+LOCATION:Koenji (IMAGINUS)\, Tokyo\, Japan
+DESCRIPTION:官方網站: https://indiegamessummit.tokyo/en/\n狀態: Confirmed（已結束，供紀錄參考；商業日+公眾日）
+CATEGORIES:Asia
+END:VEVENT
+
+BEGIN:VEVENT
 UID:pax-australia-2026@geight-calendar
 DTSTAMP:20260720T000000Z
 DTSTART;VALUE=DATE:20261009
